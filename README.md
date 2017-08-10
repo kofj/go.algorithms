@@ -2,7 +2,7 @@
 Some Data Structures and Algorithms implementation in Golang.
 
 # Implemented
-- Alder32
+- Adler32
 
 
 # Todo
